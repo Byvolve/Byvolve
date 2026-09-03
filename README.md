@@ -1,8 +1,7 @@
-# Hi there, I'm Baran 👋
-### 🚀 De brug tussen Business en Data
+# My name is Baran 👋
+### 🚀 
 
-## 📫 Let's Connect!
-Sta je open voor een gesprek over data, verandermanagement of mogelijke samenwerkingen? Laten we connecten!
+## 📫 My Linkedin:
 * <a href="https://www.linkedin.com/in/baran-yapici/" target="_blank">Vind mij op LinkedIn</a>
 
 <!--
