@@ -1,9 +1,6 @@
 # My name is Baran 👋
 ### 🚀 
 
-## 📫 My Linkedin:
-* <a href="https://www.linkedin.com/in/baran-yapici/" target="_blank">Vind mij op LinkedIn</a>
-
 <!--
 **Byvolve/Byvolve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
