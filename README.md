@@ -1,4 +1,4 @@
-# My name is Baran 👋
+# Hello, my name is Baran 👋
 ### 🚀 
 
 <!--
